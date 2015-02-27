@@ -18,3 +18,23 @@ c:\users\philip\documents\visual studio 2013\Projects\Angular4DotNet\Angular4Dot
 c:\users\philip\documents\visual studio 2013\Projects\Angular4DotNet\Angular4DotNet\obj\Debug\Angular4DotNet.pdb
 c:\users\philip\documents\visual studio 2013\Projects\Angular4DotNet\Angular4DotNet\bin\Newtonsoft.Json.dll
 c:\users\philip\documents\visual studio 2013\Projects\Angular4DotNet\Angular4DotNet\bin\Newtonsoft.Json.xml
+C:\Users\Philip\Documents\GitHub\Angular4DotNet\Angular4DotNet\Angular4DotNet\bin\Angular4DotNet.dll.config
+C:\Users\Philip\Documents\GitHub\Angular4DotNet\Angular4DotNet\Angular4DotNet\bin\Angular4DotNet.dll
+C:\Users\Philip\Documents\GitHub\Angular4DotNet\Angular4DotNet\Angular4DotNet\bin\Angular4DotNet.pdb
+C:\Users\Philip\Documents\GitHub\Angular4DotNet\Angular4DotNet\Angular4DotNet\bin\Newtonsoft.Json.dll
+C:\Users\Philip\Documents\GitHub\Angular4DotNet\Angular4DotNet\Angular4DotNet\bin\System.Web.Helpers.dll
+C:\Users\Philip\Documents\GitHub\Angular4DotNet\Angular4DotNet\Angular4DotNet\bin\System.Web.Mvc.dll
+C:\Users\Philip\Documents\GitHub\Angular4DotNet\Angular4DotNet\Angular4DotNet\bin\System.Web.Razor.dll
+C:\Users\Philip\Documents\GitHub\Angular4DotNet\Angular4DotNet\Angular4DotNet\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Philip\Documents\GitHub\Angular4DotNet\Angular4DotNet\Angular4DotNet\bin\System.Web.Webpages.dll
+C:\Users\Philip\Documents\GitHub\Angular4DotNet\Angular4DotNet\Angular4DotNet\bin\System.Web.Webpages.Razor.dll
+C:\Users\Philip\Documents\GitHub\Angular4DotNet\Angular4DotNet\Angular4DotNet\bin\Newtonsoft.Json.xml
+C:\Users\Philip\Documents\GitHub\Angular4DotNet\Angular4DotNet\Angular4DotNet\bin\System.Web.Razor.xml
+C:\Users\Philip\Documents\GitHub\Angular4DotNet\Angular4DotNet\Angular4DotNet\bin\System.Web.Webpages.xml
+C:\Users\Philip\Documents\GitHub\Angular4DotNet\Angular4DotNet\Angular4DotNet\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Philip\Documents\GitHub\Angular4DotNet\Angular4DotNet\Angular4DotNet\bin\System.Web.Webpages.Razor.xml
+C:\Users\Philip\Documents\GitHub\Angular4DotNet\Angular4DotNet\Angular4DotNet\bin\System.Web.Helpers.xml
+C:\Users\Philip\Documents\GitHub\Angular4DotNet\Angular4DotNet\Angular4DotNet\bin\System.Web.Mvc.xml
+C:\Users\Philip\Documents\GitHub\Angular4DotNet\Angular4DotNet\Angular4DotNet\obj\Debug\Angular4DotNet.csprojResolveAssemblyReference.cache
+C:\Users\Philip\Documents\GitHub\Angular4DotNet\Angular4DotNet\Angular4DotNet\obj\Debug\Angular4DotNet.dll
+C:\Users\Philip\Documents\GitHub\Angular4DotNet\Angular4DotNet\Angular4DotNet\obj\Debug\Angular4DotNet.pdb

@@ -2,7 +2,7 @@
     .config(function ($routeProvider, $locationProvider) {
         $routeProvider.when("/Registration/Courses", {
             templateUrl: "/templates/courses.html",
-            controller: "RegistrationController"
+            controller: "CoursesController"
         });
         $routeProvider.when("/Registration/Instructors", {
             templateUrl: "/templates/instructors.html",

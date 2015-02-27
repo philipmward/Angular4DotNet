@@ -1,5 +1,5 @@
 ﻿"use strict";
 
-registrationModule.controller("RegistrationController", function ($scope, bootstrappedData) {
-    $scope.courses = bootstrappedData.courses;
+registrationModule.controller("CoursesController", function ($scope, courseRepository) {
+    courseRepository.get().then(function (courses) { $scope.courses = courses; }, function () { });
 });

@@ -13,7 +13,7 @@ namespace Angular4DotNet.Controllers
         // GET: Hello
         public ActionResult Index()
         {
-            return View(_registrationVmBuilder.BuildRegistrationVm());
+            return View();
         }
     }
 }
