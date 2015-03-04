@@ -8,5 +8,9 @@
             templateUrl: "/templates/instructors.html",
             controller: "InstructorsController"
         });
+        $routeProvider.when("/Registration/CreateAccount", {
+            templateUrl: "/templates/create-account.html",
+            controller: "AccountController"
+        });
         $locationProvider.html5Mode(true);
     });
