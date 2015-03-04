@@ -4,7 +4,7 @@ registrationModule.controller("AccountController", function ($scope, accountRepo
     $scope.save = function (student) {
         $scope.error = false;
         accountRepository.save(student).then(
-            function() { $location.url("/Registration/Courses") },
-            function(){$scope.error = true;});
+            function () { $location.url("/Registration/Courses") },
+            function (response) { $scope.error = true; });
     };
 });
